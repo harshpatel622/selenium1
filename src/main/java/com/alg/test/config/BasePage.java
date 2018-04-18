@@ -299,7 +299,7 @@ public abstract class BasePage {
 		capabilities.setPlatform(Platform.WIN10);
 		
 		System.setProperty("webdriver.chrome.driver",
-				"chromedriver.exe");
+				"chromedriver_37.exe");
 
 		return new ChromeDriver(capabilities);
 	}

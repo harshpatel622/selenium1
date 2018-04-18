@@ -489,3 +489,802 @@ Session ID: 64022247e092545b9e7a17d70f78c692
 2018-02-22 17:47:26,434 INFO  [Log] Launching browser in local 
 2018-02-22 17:47:31,338 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
 2018-02-22 17:47:31,836 INFO  [Log] Clicking on a webelement 
+2018-03-20 01:04:40,496 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:04:40,537 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:04:40,537 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:04:40,537 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:04:40,537 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:04:40,537 INFO  [Log] Loading properties file 
+2018-03-20 01:04:40,614 INFO  [Log] Start class 
+2018-03-20 01:04:40,614 INFO  [Log] Setting the data engine object 
+2018-03-20 01:04:43,014 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:04:43,014 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:04:43,014 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:04:43,014 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:04:43,014 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:04:43,016 INFO  [Log] Launching browser in local 
+2018-03-20 01:05:08,844 INFO  [Log] Redirecting to url - http://www.store.demoqa.com 
+2018-03-20 01:05:21,599 INFO  [Log] Clicking on a webelement 
+2018-03-20 01:05:25,186 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.26 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir3632_3878}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: b941256fa5eb71c9157010f3097388f6 
+2018-03-20 01:05:25,188 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:05:25,188 INFO  [Log] X 
+2018-03-20 01:05:25,188 INFO  [Log] X 
+2018-03-20 01:05:25,188 INFO  [Log] X 
+2018-03-20 01:05:25,188 INFO  [Log] X 
+2018-03-20 01:05:25,205 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:05:25,205 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:05:25,205 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:05:25,205 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:05:25,205 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:05:25,207 INFO  [Log] Launching browser in local 
+2018-03-20 01:05:37,279 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:05:55,805 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18.53 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir9508_27141}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2d555a4edc1ce6a1cce4f82bc9e96641 
+2018-03-20 01:05:55,943 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:05:55,943 INFO  [Log] X 
+2018-03-20 01:05:55,943 INFO  [Log] X 
+2018-03-20 01:05:55,943 INFO  [Log] X 
+2018-03-20 01:05:55,946 INFO  [Log] X 
+2018-03-20 01:05:55,947 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:05:55,947 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:05:55,947 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:05:55,947 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:05:55,947 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:05:55,949 INFO  [Log] Launching browser in local 
+2018-03-20 01:06:12,056 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:06:29,602 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17.54 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir10988_27159}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 6148b98fccd03c33df22323e3f86ee4a 
+2018-03-20 01:06:29,605 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:06:29,605 INFO  [Log] X 
+2018-03-20 01:06:29,605 INFO  [Log] X 
+2018-03-20 01:06:29,605 INFO  [Log] X 
+2018-03-20 01:06:29,605 INFO  [Log] X 
+2018-03-20 01:06:29,610 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:06:29,610 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:06:29,610 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC004       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:06:29,611 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:06:29,611 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:06:29,614 INFO  [Log] Launching browser in local 
+2018-03-20 01:06:39,232 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:06:56,994 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17.76 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir4104_32267}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: ae5c29e7388d6947f5896420785add75 
+2018-03-20 01:06:56,997 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:06:56,997 INFO  [Log] X 
+2018-03-20 01:06:56,997 INFO  [Log] X 
+2018-03-20 01:06:56,997 INFO  [Log] X 
+2018-03-20 01:06:56,997 INFO  [Log] X 
+2018-03-20 01:06:56,998 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:06:56,999 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:06:56,999 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC005       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:06:56,999 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:06:56,999 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:06:57,000 INFO  [Log] Launching browser in local 
+2018-03-20 01:07:20,231 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:07:36,272 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16.04 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir4244_1751}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 7f419c4a5c7e55b2c676aecad4cdcfe8 
+2018-03-20 01:07:36,274 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:07:36,274 INFO  [Log] X 
+2018-03-20 01:07:36,274 INFO  [Log] X 
+2018-03-20 01:07:36,274 INFO  [Log] X 
+2018-03-20 01:07:36,274 INFO  [Log] X 
+2018-03-20 01:07:36,275 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:07:36,275 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:07:36,275 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC006       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:07:36,276 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:07:36,276 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:07:36,277 INFO  [Log] Launching browser in local 
+2018-03-20 01:07:50,939 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:08:48,440 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 57.50 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir5200_28221}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: cf2e52eb9211780330ac33594ead8ee0 
+2018-03-20 01:08:48,447 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:08:48,447 INFO  [Log] X 
+2018-03-20 01:08:48,447 INFO  [Log] X 
+2018-03-20 01:08:48,447 INFO  [Log] X 
+2018-03-20 01:08:48,447 INFO  [Log] X 
+2018-03-20 01:08:48,448 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:08:48,448 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:08:48,448 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC007       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:08:48,448 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:08:48,448 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:08:48,451 INFO  [Log] Launching browser in local 
+2018-03-20 01:09:01,239 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:09:17,169 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15.93 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir9056_20690}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 06ea8f45c8752e67d9efe0e49316bb04 
+2018-03-20 01:09:17,171 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:09:17,171 INFO  [Log] X 
+2018-03-20 01:09:17,171 INFO  [Log] X 
+2018-03-20 01:09:17,171 INFO  [Log] X 
+2018-03-20 01:09:17,171 INFO  [Log] X 
+2018-03-20 01:09:17,172 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:09:17,172 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:09:17,173 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC008       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:09:17,173 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:09:17,173 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:09:17,174 INFO  [Log] Launching browser in local 
+2018-03-20 01:09:31,263 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:09:53,207 INFO  [Log] Clicking on a webelement 
+2018-03-20 01:09:58,721 ERROR [Log] Error while clicking on a webelement | Exception Description - null 
+2018-03-20 01:09:58,722 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:09:58,722 INFO  [Log] X 
+2018-03-20 01:09:58,722 INFO  [Log] X 
+2018-03-20 01:09:58,722 INFO  [Log] X 
+2018-03-20 01:09:58,722 INFO  [Log] X 
+2018-03-20 01:09:58,723 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:09:58,723 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:09:58,723 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC009       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:09:58,723 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:09:58,723 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:09:58,725 INFO  [Log] Launching browser in local 
+2018-03-20 01:10:06,312 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-03-20 01:10:17,937 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.62 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir13620_20595}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2c575e6ee2828cc4b2e16476915de7c8 
+2018-03-20 01:10:17,939 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:10:17,939 INFO  [Log] X 
+2018-03-20 01:10:17,939 INFO  [Log] X 
+2018-03-20 01:10:17,939 INFO  [Log] X 
+2018-03-20 01:10:17,939 INFO  [Log] X 
+2018-03-20 01:10:17,940 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:10:17,940 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:10:17,940 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC010       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:10:17,940 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:10:17,941 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:10:17,971 INFO  [Log] Launching browser in local 
+2018-03-20 01:10:22,082 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-03-20 01:10:33,824 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11.74 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir13472_24484}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: b24d08e0c6c780940d5c4f1b4ec8e525 
+2018-03-20 01:10:33,825 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:10:33,825 INFO  [Log] X 
+2018-03-20 01:10:33,825 INFO  [Log] X 
+2018-03-20 01:10:33,825 INFO  [Log] X 
+2018-03-20 01:10:33,825 INFO  [Log] X 
+2018-03-20 01:10:33,827 INFO  [Log] Saving the result 
+2018-03-20 01:10:33,956 ERROR [Log] Error saving the results | Exception Description - DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-03-20 01:22:53,609 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:53,610 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:53,610 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:22:53,610 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:53,611 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:53,611 INFO  [Log] Loading properties file 
+2018-03-20 01:22:53,617 INFO  [Log] Start class 
+2018-03-20 01:22:53,617 INFO  [Log] Setting the data engine object 
+2018-03-20 01:22:54,477 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:54,477 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:54,477 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:22:54,477 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:54,477 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:22:54,478 INFO  [Log] Launching browser in local 
+2018-03-20 01:23:02,092 INFO  [Log] Redirecting to url - http://www.store.demoqa.com 
+2018-03-20 01:23:09,833 INFO  [Log] Clicking on a webelement 
+2018-03-20 01:23:15,564 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: cannot determine loading status
+from unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.02 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir5520_17103}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 1f73063a5352d5d641eab6f6d8ada3da 
+2018-03-20 01:23:15,566 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:23:15,566 INFO  [Log] X 
+2018-03-20 01:23:15,566 INFO  [Log] X 
+2018-03-20 01:23:15,566 INFO  [Log] X 
+2018-03-20 01:23:15,566 INFO  [Log] X 
+2018-03-20 01:23:15,759 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:15,759 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:15,759 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:23:15,759 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:15,759 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:15,760 INFO  [Log] Launching browser in local 
+2018-03-20 01:23:24,453 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:23:35,087 INFO  [Log] Clicking on a webelement 
+2018-03-20 01:23:40,400 ERROR [Log] Error while clicking on a webelement | Exception Description - null 
+2018-03-20 01:23:40,401 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:23:40,401 INFO  [Log] X 
+2018-03-20 01:23:40,401 INFO  [Log] X 
+2018-03-20 01:23:40,401 INFO  [Log] X 
+2018-03-20 01:23:40,401 INFO  [Log] X 
+2018-03-20 01:23:40,402 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:40,402 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:40,402 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:23:40,402 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:40,402 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:23:40,403 INFO  [Log] Launching browser in local 
+2018-03-20 01:23:46,581 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:24:07,986 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21.40 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir11612_19777}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f6bce5ba79037c54e2cdba5a0d5ed87c 
+2018-03-20 01:24:07,988 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:24:07,988 INFO  [Log] X 
+2018-03-20 01:24:07,988 INFO  [Log] X 
+2018-03-20 01:24:07,988 INFO  [Log] X 
+2018-03-20 01:24:07,988 INFO  [Log] X 
+2018-03-20 01:24:07,989 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:24:07,989 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:24:07,989 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC004       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:24:07,989 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:24:07,989 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:24:07,991 INFO  [Log] Launching browser in local 
+2018-03-20 01:24:24,789 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:24:34,664 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9.88 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir6124_22045}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: f520c56f7f2872ad7af4201acaccf684 
+2018-03-20 01:24:34,666 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:24:34,666 INFO  [Log] X 
+2018-03-20 01:24:34,666 INFO  [Log] X 
+2018-03-20 01:24:34,666 INFO  [Log] X 
+2018-03-20 01:24:34,666 INFO  [Log] X 
+2018-03-20 01:24:34,667 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:24:34,667 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:24:34,667 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC005       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:24:34,667 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:24:34,667 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:24:34,668 INFO  [Log] Launching browser in local 
+2018-03-20 01:24:51,036 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:25:17,044 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 26.01 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir4772_29512}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 2f02c1a81fad81c215e37f0f8a44d701 
+2018-03-20 01:25:17,046 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:25:17,046 INFO  [Log] X 
+2018-03-20 01:25:17,046 INFO  [Log] X 
+2018-03-20 01:25:17,046 INFO  [Log] X 
+2018-03-20 01:25:17,046 INFO  [Log] X 
+2018-03-20 01:25:17,047 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:25:17,047 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:25:17,047 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC006       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:25:17,047 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:25:17,047 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:25:17,049 INFO  [Log] Launching browser in local 
+2018-03-20 01:25:26,596 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:26:16,167 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 49.57 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir8196_30902}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 11151d9fa76102e04489b523e2cc3343 
+2018-03-20 01:26:16,211 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:26:16,211 INFO  [Log] X 
+2018-03-20 01:26:16,212 INFO  [Log] X 
+2018-03-20 01:26:16,212 INFO  [Log] X 
+2018-03-20 01:26:16,212 INFO  [Log] X 
+2018-03-20 01:26:16,214 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:26:16,214 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:26:16,214 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC007       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:26:16,214 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:26:16,214 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:26:16,216 INFO  [Log] Launching browser in local 
+2018-03-20 01:26:23,335 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:26:41,790 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18.45 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir13612_25846}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 14b4dd055a34f12b3be8241f5d1da729 
+2018-03-20 01:26:41,792 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:26:41,792 INFO  [Log] X 
+2018-03-20 01:26:41,792 INFO  [Log] X 
+2018-03-20 01:26:41,792 INFO  [Log] X 
+2018-03-20 01:26:41,792 INFO  [Log] X 
+2018-03-20 01:26:41,793 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:26:41,793 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:26:41,793 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC008       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:26:41,793 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:26:41,793 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:26:41,795 INFO  [Log] Launching browser in local 
+2018-03-20 01:26:49,232 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-20 01:27:44,429 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 55.20 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir13464_19322}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 57a36f89e95ed2729bdf22fef68fe750 
+2018-03-20 01:27:44,430 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:27:44,430 INFO  [Log] X 
+2018-03-20 01:27:44,430 INFO  [Log] X 
+2018-03-20 01:27:44,431 INFO  [Log] X 
+2018-03-20 01:27:44,431 INFO  [Log] X 
+2018-03-20 01:27:44,432 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:27:44,432 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:27:44,432 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC009       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:27:44,432 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:27:44,432 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:27:44,435 INFO  [Log] Launching browser in local 
+2018-03-20 01:28:00,200 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-03-20 01:28:35,277 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 35.08 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir14240_2491}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 72844c206f64ee7b3b7cf56056217f21 
+2018-03-20 01:28:35,278 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:28:35,278 INFO  [Log] X 
+2018-03-20 01:28:35,278 INFO  [Log] X 
+2018-03-20 01:28:35,278 INFO  [Log] X 
+2018-03-20 01:28:35,278 INFO  [Log] X 
+2018-03-20 01:28:35,400 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:28:35,401 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:28:35,401 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC010       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-20 01:28:35,401 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:28:35,401 INFO  [Log] **************************************************************************************** 
+2018-03-20 01:28:35,476 INFO  [Log] Launching browser in local 
+2018-03-20 01:28:58,823 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-03-20 01:29:22,212 ERROR [Log] Error redirecting browser | Exception Description - unknown error: missing or invalid 'entry.level'
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23.39 seconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir9384_13687}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.162, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: ff31b5f0d6594dc59d00d90e6595a457 
+2018-03-20 01:29:22,279 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-20 01:29:22,280 INFO  [Log] X 
+2018-03-20 01:29:22,280 INFO  [Log] X 
+2018-03-20 01:29:22,280 INFO  [Log] X 
+2018-03-20 01:29:22,280 INFO  [Log] X 
+2018-03-20 01:29:23,025 INFO  [Log] Saving the result 
+2018-03-29 13:10:07,696 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:07,715 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:07,715 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:10:07,715 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:07,715 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:07,715 INFO  [Log] Loading properties file 
+2018-03-29 13:10:07,719 INFO  [Log] Start class 
+2018-03-29 13:10:07,719 INFO  [Log] Setting the data engine object 
+2018-03-29 13:10:08,540 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:08,540 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:08,540 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:10:08,540 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:08,540 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:08,541 INFO  [Log] Launching browser in local 
+2018-03-29 13:10:30,919 INFO  [Log] Redirecting to url - http://www.store.demoqa.com 
+2018-03-29 13:10:39,267 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:10:42,774 INFO  [Log] Entering data - testuser_3 
+2018-03-29 13:10:43,160 INFO  [Log] Entering data - Test@123 
+2018-03-29 13:10:43,393 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:10:43,677 INFO  [Log] Force wait for 4 seconds 
+2018-03-29 13:10:47,679 INFO  [Log] Closing the browser 
+2018-03-29 13:10:53,295 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:10:53,295 INFO  [Log] X 
+2018-03-29 13:10:53,295 INFO  [Log] X 
+2018-03-29 13:10:53,295 INFO  [Log] X 
+2018-03-29 13:10:53,295 INFO  [Log] X 
+2018-03-29 13:10:53,297 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:53,297 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:53,297 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:10:53,297 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:53,297 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:10:53,298 INFO  [Log] Launching browser in local 
+2018-03-29 13:11:00,497 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-29 13:11:17,743 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:11:17,999 INFO  [Log] Reading data from a webelement 
+2018-03-29 13:11:18,124 INFO  [Log] Force wait for 2 seconds 
+2018-03-29 13:11:20,125 INFO  [Log] Closing the browser 
+2018-03-29 13:11:24,720 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:11:24,720 INFO  [Log] X 
+2018-03-29 13:11:24,720 INFO  [Log] X 
+2018-03-29 13:11:24,720 INFO  [Log] X 
+2018-03-29 13:11:24,720 INFO  [Log] X 
+2018-03-29 13:11:24,721 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:11:24,721 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:11:24,721 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:11:24,721 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:11:24,721 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:11:24,722 INFO  [Log] Launching browser in local 
+2018-03-29 13:11:31,701 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-29 13:11:42,194 INFO  [Log] Entering data - kid123 
+2018-03-29 13:11:42,542 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:11:42,711 INFO  [Log] Reading data from a webelement 
+2018-03-29 13:11:42,810 INFO  [Log] Force wait for 2 seconds 
+2018-03-29 13:11:44,811 INFO  [Log] Closing the browser 
+2018-03-29 13:11:46,573 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:11:46,573 INFO  [Log] X 
+2018-03-29 13:11:46,573 INFO  [Log] X 
+2018-03-29 13:11:46,573 INFO  [Log] X 
+2018-03-29 13:11:46,573 INFO  [Log] X 
+2018-03-29 13:11:46,574 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:11:46,574 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:11:46,574 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC004       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:11:46,574 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:11:46,574 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:11:46,575 INFO  [Log] Launching browser in local 
+2018-03-29 13:11:50,211 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-29 13:11:56,879 INFO  [Log] Entering data - kid123@gmail.com 
+2018-03-29 13:11:57,171 INFO  [Log] Entering data - 123456 
+2018-03-29 13:11:57,399 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:11:57,578 INFO  [Log] Force wait for 2 seconds 
+2018-03-29 13:11:59,581 INFO  [Log] Closing the browser 
+2018-03-29 13:12:01,997 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:12:01,997 INFO  [Log] X 
+2018-03-29 13:12:01,997 INFO  [Log] X 
+2018-03-29 13:12:01,997 INFO  [Log] X 
+2018-03-29 13:12:01,997 INFO  [Log] X 
+2018-03-29 13:12:01,998 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:01,998 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:01,998 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC005       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:12:01,998 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:01,998 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:01,999 INFO  [Log] Launching browser in local 
+2018-03-29 13:12:05,400 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-29 13:12:13,403 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:12:13,817 INFO  [Log] Force wait for 2 seconds 
+2018-03-29 13:12:15,818 INFO  [Log] Closing the browser 
+2018-03-29 13:12:17,578 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:12:17,578 INFO  [Log] X 
+2018-03-29 13:12:17,578 INFO  [Log] X 
+2018-03-29 13:12:17,578 INFO  [Log] X 
+2018-03-29 13:12:17,578 INFO  [Log] X 
+2018-03-29 13:12:17,579 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:17,579 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:17,579 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC006       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:12:17,579 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:17,579 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:17,580 INFO  [Log] Launching browser in local 
+2018-03-29 13:12:21,033 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-29 13:12:29,322 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:12:29,672 INFO  [Log] Force wait for 2 seconds 
+2018-03-29 13:12:31,673 INFO  [Log] Closing the browser 
+2018-03-29 13:12:33,846 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:12:33,846 INFO  [Log] X 
+2018-03-29 13:12:33,846 INFO  [Log] X 
+2018-03-29 13:12:33,846 INFO  [Log] X 
+2018-03-29 13:12:33,846 INFO  [Log] X 
+2018-03-29 13:12:33,846 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:33,847 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:33,847 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC007       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:12:33,847 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:33,847 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:33,848 INFO  [Log] Launching browser in local 
+2018-03-29 13:12:36,677 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-29 13:12:43,149 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:12:43,403 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:12:43,641 INFO  [Log] Force wait for 2 seconds 
+2018-03-29 13:12:45,642 INFO  [Log] Closing the browser 
+2018-03-29 13:12:47,521 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:12:47,521 INFO  [Log] X 
+2018-03-29 13:12:47,521 INFO  [Log] X 
+2018-03-29 13:12:47,521 INFO  [Log] X 
+2018-03-29 13:12:47,521 INFO  [Log] X 
+2018-03-29 13:12:47,522 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:47,522 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:47,522 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC008       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:12:47,522 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:47,522 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:12:47,523 INFO  [Log] Launching browser in local 
+2018-03-29 13:12:50,608 INFO  [Log] Redirecting to url - https://mpower.tvo.org/educators/#/login/ 
+2018-03-29 13:12:58,223 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:12:58,466 INFO  [Log] Force wait for 2 seconds 
+2018-03-29 13:13:00,466 INFO  [Log] Clicking dropdown - Coach 
+2018-03-29 13:13:00,658 INFO  [Log] Closing the browser 
+2018-03-29 13:13:02,254 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:13:02,254 INFO  [Log] X 
+2018-03-29 13:13:02,254 INFO  [Log] X 
+2018-03-29 13:13:02,254 INFO  [Log] X 
+2018-03-29 13:13:02,254 INFO  [Log] X 
+2018-03-29 13:13:02,255 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:13:02,255 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:13:02,255 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC009       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:13:02,255 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:13:02,255 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:13:02,256 INFO  [Log] Launching browser in local 
+2018-03-29 13:13:04,909 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-03-29 13:13:10,050 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:13:10,305 INFO  [Log] Entering data - M3C 1E6 
+2018-03-29 13:13:10,558 INFO  [Log] Skipped dropdown 
+2018-03-29 13:13:10,559 INFO  [Log] Clicking listdropdown - Home 
+2018-03-29 13:13:10,831 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:13:18,733 INFO  [Log] Force wait for 2 seconds 
+2018-03-29 13:13:20,734 INFO  [Log] Closing the browser 
+2018-03-29 13:13:26,266 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:13:26,266 INFO  [Log] X 
+2018-03-29 13:13:26,266 INFO  [Log] X 
+2018-03-29 13:13:26,266 INFO  [Log] X 
+2018-03-29 13:13:26,266 INFO  [Log] X 
+2018-03-29 13:13:26,267 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:13:26,267 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:13:26,267 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC010       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-03-29 13:13:26,267 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:13:26,267 INFO  [Log] **************************************************************************************** 
+2018-03-29 13:13:26,269 INFO  [Log] Launching browser in local 
+2018-03-29 13:13:29,955 INFO  [Log] Redirecting to url - https://www.avivainsurance.ca/ 
+2018-03-29 13:13:34,109 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:13:34,327 INFO  [Log] Entering data - M3C 1E6 
+2018-03-29 13:13:34,693 INFO  [Log] Skipped dropdown 
+2018-03-29 13:13:34,694 INFO  [Log] Clicking listdropdown - Home 
+2018-03-29 13:13:34,811 INFO  [Log] Clicking on a webelement 
+2018-03-29 13:13:40,358 INFO  [Log] Force wait for 2 seconds 
+2018-03-29 13:13:42,360 INFO  [Log] Closing the browser 
+2018-03-29 13:13:47,583 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-03-29 13:13:47,583 INFO  [Log] X 
+2018-03-29 13:13:47,583 INFO  [Log] X 
+2018-03-29 13:13:47,583 INFO  [Log] X 
+2018-03-29 13:13:47,583 INFO  [Log] X 
+2018-03-29 13:13:47,584 INFO  [Log] Saving the result 
+2018-04-04 16:16:00,559 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:16:00,577 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:16:00,577 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:16:00,577 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:16:00,577 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:16:00,577 INFO  [Log] Loading properties file 
+2018-04-04 16:16:00,597 INFO  [Log] Start class 
+2018-04-04 16:16:00,597 INFO  [Log] Setting the data engine object 
+2018-04-04 16:16:02,165 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:16:02,165 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:16:02,166 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC011       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:16:02,166 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:16:02,166 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:16:02,174 INFO  [Log] Launching browser in local 
+2018-04-04 16:16:25,152 INFO  [Log] Redirecting to url - https://www.healthquotes.ca/ 
+2018-04-04 16:16:30,366 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:16:31,116 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:16:32,348 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:16:32,627 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: Element <img alt="Health Insurance Quotes" src="https://www.healthquotes.ca/Images/get-quotes-new.png" border="0"> is not clickable at point (528, 600). Other element would receive the click: <p>...</p>
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 65 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir1420_16450}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 9dab218d2f7d61134a23b70dc58079ca 
+2018-04-04 16:16:32,629 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-04 16:16:32,629 INFO  [Log] X 
+2018-04-04 16:16:32,630 INFO  [Log] X 
+2018-04-04 16:16:32,630 INFO  [Log] X 
+2018-04-04 16:16:32,630 INFO  [Log] X 
+2018-04-04 16:16:32,645 INFO  [Log] Saving the result 
+2018-04-04 16:26:30,635 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:26:30,668 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:26:30,668 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:26:30,668 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:26:30,668 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:26:30,668 INFO  [Log] Loading properties file 
+2018-04-04 16:26:30,677 INFO  [Log] Start class 
+2018-04-04 16:26:30,677 INFO  [Log] Setting the data engine object 
+2018-04-04 16:26:31,450 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:26:31,450 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:26:31,450 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC011       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:26:31,450 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:26:31,450 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:26:31,457 INFO  [Log] Launching browser in local 
+2018-04-04 16:26:43,464 INFO  [Log] Redirecting to url - https://www.healthquotes.ca/ 
+2018-04-04 16:26:49,067 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:26:50,373 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:26:51,287 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:26:51,650 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: Element <img alt="Health Insurance Quotes" src="https://www.healthquotes.ca/Images/get-quotes-new.png" border="0"> is not clickable at point (528, 600). Other element would receive the click: <p>...</p>
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 105 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir10432_9791}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 23336d40dfe4385a53701f882a559d15 
+2018-04-04 16:26:51,652 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-04 16:26:51,652 INFO  [Log] X 
+2018-04-04 16:26:51,652 INFO  [Log] X 
+2018-04-04 16:26:51,652 INFO  [Log] X 
+2018-04-04 16:26:51,652 INFO  [Log] X 
+2018-04-04 16:26:51,689 INFO  [Log] Saving the result 
+2018-04-04 16:45:46,374 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:45:46,398 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:45:46,398 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:45:46,399 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:45:46,399 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:45:46,399 INFO  [Log] Loading properties file 
+2018-04-04 16:45:46,407 INFO  [Log] Start class 
+2018-04-04 16:45:46,407 INFO  [Log] Setting the data engine object 
+2018-04-04 16:45:47,367 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:45:47,367 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:45:47,367 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC011       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:45:47,367 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:45:47,367 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:45:47,373 INFO  [Log] Launching browser in local 
+2018-04-04 16:46:19,977 INFO  [Log] Redirecting to url - https://www.healthquotes.ca/ 
+2018-04-04 16:46:26,436 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:46:27,411 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:46:28,154 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:46:28,471 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: Element <img alt="Health Insurance Quotes" src="https://www.healthquotes.ca/Images/get-quotes-new.png" border="0"> is not clickable at point (528, 600). Other element would receive the click: <p>...</p>
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 64 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir12752_21803}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f84491cdbf8dd67599467d4cc418359c 
+2018-04-04 16:46:28,473 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-04 16:46:28,473 INFO  [Log] X 
+2018-04-04 16:46:28,473 INFO  [Log] X 
+2018-04-04 16:46:28,473 INFO  [Log] X 
+2018-04-04 16:46:28,473 INFO  [Log] X 
+2018-04-04 16:46:28,604 INFO  [Log] Saving the result 
+2018-04-04 16:46:28,605 ERROR [Log] Error saving the results | Exception Description - DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-04-04 16:49:18,295 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:49:18,296 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:49:18,296 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:49:18,296 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:49:18,296 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:49:18,296 INFO  [Log] Loading properties file 
+2018-04-04 16:49:18,302 INFO  [Log] Start class 
+2018-04-04 16:49:18,302 INFO  [Log] Setting the data engine object 
+2018-04-04 16:49:19,206 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:49:19,206 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:49:19,206 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC011       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:49:19,207 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:49:19,207 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:49:19,213 INFO  [Log] Launching browser in local 
+2018-04-04 16:49:30,411 INFO  [Log] Redirecting to url - https://www.healthquotes.ca/ 
+2018-04-04 16:49:39,537 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:49:41,544 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:49:44,141 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:49:44,586 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: Element <img alt="Health Insurance Quotes" src="https://www.healthquotes.ca/Images/get-quotes-new.png" border="0"> is not clickable at point (528, 600). Other element would receive the click: <p>...</p>
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 77 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir9220_10160}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 859a097ce6dbf1ffe4c7d4d58ea10b27 
+2018-04-04 16:49:44,588 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-04 16:49:44,588 INFO  [Log] X 
+2018-04-04 16:49:44,588 INFO  [Log] X 
+2018-04-04 16:49:44,588 INFO  [Log] X 
+2018-04-04 16:49:44,588 INFO  [Log] X 
+2018-04-04 16:49:44,756 INFO  [Log] Saving the result 
+2018-04-04 16:49:44,756 ERROR [Log] Error saving the results | Exception Description - DataEngine.xlsx (The process cannot access the file because it is being used by another process) 
+2018-04-04 16:57:28,040 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:57:28,041 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:57:28,041 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:57:28,042 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:57:28,042 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:57:28,042 INFO  [Log] Loading properties file 
+2018-04-04 16:57:28,047 INFO  [Log] Start class 
+2018-04-04 16:57:28,047 INFO  [Log] Setting the data engine object 
+2018-04-04 16:57:28,829 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:57:28,829 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:57:28,829 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC011       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 16:57:28,829 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:57:28,829 INFO  [Log] **************************************************************************************** 
+2018-04-04 16:57:28,835 INFO  [Log] Launching browser in local 
+2018-04-04 16:57:39,084 INFO  [Log] Redirecting to url - https://www.healthquotes.ca/ 
+2018-04-04 16:57:49,073 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:57:52,135 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:57:53,995 INFO  [Log] Clicking on a webelement 
+2018-04-04 16:57:54,567 ERROR [Log] Error while clicking on a webelement | Exception Description - unknown error: Element <img alt="Health Insurance Quotes" src="https://www.healthquotes.ca/Images/get-quotes-new.png" border="0"> is not clickable at point (528, 600). Other element would receive the click: <p>...</p>
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 55 milliseconds
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'HIMEN', ip: '192.168.0.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\HIMEN\AppData\Local\Temp\scoped_dir6704_31750}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=65.0.3325.181, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: fc0a4ab2c1a66cb1d68e8faf1ed722c1 
+2018-04-04 16:57:54,569 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-04 16:57:54,569 INFO  [Log] X 
+2018-04-04 16:57:54,569 INFO  [Log] X 
+2018-04-04 16:57:54,569 INFO  [Log] X 
+2018-04-04 16:57:54,569 INFO  [Log] X 
+2018-04-04 16:57:54,631 INFO  [Log] Saving the result 
+2018-04-04 17:00:14,276 INFO  [Log] **************************************************************************************** 
+2018-04-04 17:00:14,278 INFO  [Log] **************************************************************************************** 
+2018-04-04 17:00:14,278 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Test Suite Begin         $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 17:00:14,278 INFO  [Log] **************************************************************************************** 
+2018-04-04 17:00:14,278 INFO  [Log] **************************************************************************************** 
+2018-04-04 17:00:14,278 INFO  [Log] Loading properties file 
+2018-04-04 17:00:14,283 INFO  [Log] Start class 
+2018-04-04 17:00:14,283 INFO  [Log] Setting the data engine object 
+2018-04-04 17:00:15,052 INFO  [Log] **************************************************************************************** 
+2018-04-04 17:00:15,052 INFO  [Log] **************************************************************************************** 
+2018-04-04 17:00:15,052 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 TC011       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-04-04 17:00:15,052 INFO  [Log] **************************************************************************************** 
+2018-04-04 17:00:15,052 INFO  [Log] **************************************************************************************** 
+2018-04-04 17:00:15,059 INFO  [Log] Launching browser in local 
+2018-04-04 17:00:20,229 INFO  [Log] Redirecting to url - https://www.healthquotes.ca/ 
+2018-04-04 17:00:28,784 INFO  [Log] Clicking on a webelement 
+2018-04-04 17:00:29,517 INFO  [Log] Clicking on a webelement 
+2018-04-04 17:00:30,125 INFO  [Log] Clicking on a webelement 
+2018-04-04 17:00:30,223 INFO  [Log] Reading data from a webelement 
+2018-04-04 17:00:35,381 ERROR [Log] Error while reading data from the webelement 
+2018-04-04 17:00:35,384 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-04-04 17:00:35,384 INFO  [Log] X 
+2018-04-04 17:00:35,384 INFO  [Log] X 
+2018-04-04 17:00:35,384 INFO  [Log] X 
+2018-04-04 17:00:35,384 INFO  [Log] X 
+2018-04-04 17:00:35,391 INFO  [Log] Saving the result 
